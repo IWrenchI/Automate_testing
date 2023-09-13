@@ -25,9 +25,9 @@ class B extends A {
         System.out.println("Сlass B");
     }
 
-//    public void print() {
-//        System.out.println("Method from B");
-//    }
+    public void print() {
+        System.out.println("Method from B");
+    }
 
     public void print2() {
         System.out.println("Print2");
